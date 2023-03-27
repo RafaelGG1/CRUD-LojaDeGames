@@ -1,0 +1,5 @@
+package lojadegames.service;
+
+public class UsuarioService {
+
+}
